@@ -10,7 +10,7 @@
 - 💻 I'm currently learning HTML & CSS3 and C++
 - 💡 My projects are available on [Github](https://github.com/dnkolev20?tab=repositories)
 - 📧 Reach me at: dnkolev20@codingburgas.bg
-- 🎵 Fun Fact: I like listening to Shawn Mendes
+- 🎵 Fun Fact: I like listening to VatF FM
 
 <hr>
 
